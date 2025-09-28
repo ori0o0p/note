@@ -11,7 +11,7 @@ tags:
 author: tdp-the-duds-pod
 created_at: 2025-09-28 22:59
 related: []
-source: [YouTube](https://www.youtube.com)
+source: https://www.youtube.com
 ---
 
 # 번역 및 요약
