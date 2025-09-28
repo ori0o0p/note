@@ -1,4 +1,4 @@
-<pre>
+
   ---
   description: "현재 보고 있는 기술 문서를 번역, 정리해서 markdown 문서 형식으로 생성합니다."
   ---
@@ -30,6 +30,7 @@
   created_at: [현재 시간 기준 YYYY-MM-DD HH:MM 형식]
   related: []
   source: [원문 텍스트와 함께 제공된 소스 URL]
+  ```
   
   ## 문서 번역 및 요약 규칙
 
@@ -93,5 +94,3 @@
   - **단순화/추상화 영역 (Simplification/Abstraction Areas)**: (Specify any areas where complex concepts were unavoidably simplified or abstracted to fit the audience's level.)
   - **의견 전환 질문 (Opinion-Changing Questions)**: (Present a minimum of 2 critical questions, not addressed in the source, that could fundamentally change the expert view or structural decisions of this summary.)
   ```
-
-</pre>
